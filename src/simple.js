@@ -1,1 +1,1 @@
-console.log("simple.js")
+console.log("simple")
