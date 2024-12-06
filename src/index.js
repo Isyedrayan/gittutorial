@@ -1,2 +1,2 @@
 console.log("index1.js");
-console.log("vnowoli 1.1")
+console.log("clone 1.1")
