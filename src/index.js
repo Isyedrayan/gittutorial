@@ -1,2 +1,2 @@
 console.log("index1.js");
-console.log("version1")
+console.log("vnowoli 1.1")
